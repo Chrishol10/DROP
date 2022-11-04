@@ -1,4 +1,4 @@
-# DROP
+# DROP & Scatterplot & Hexbin plot
 Remove or Drooping specific rows &amp; columns
 
 can anyone help me on the below 2 question on how to code it i have tried multiple ways but getting errors
